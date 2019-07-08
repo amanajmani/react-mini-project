@@ -4,6 +4,7 @@
 
 Just a simple static webapp to display a list of books with just a little bit of CSS without any dynamic content, using static functions.
 
-    Deployed here: https://react-mini-project.netlify.com
+    Deployed here: 
+   https://react-mini-project.netlify.com
 
 
